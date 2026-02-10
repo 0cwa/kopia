@@ -27,7 +27,7 @@ require (
 	github.com/gorilla/mux v1.8.1
 	github.com/hanwen/go-fuse/v2 v2.9.0
 	github.com/hashicorp/cronexpr v1.1.3
-	github.com/klauspost/compress v1.18.3
+	github.com/klauspost/compress v1.18.4
 	github.com/klauspost/pgzip v1.2.6
 	github.com/klauspost/reedsolomon v1.13.2
 	github.com/kopia/htmluibuild v0.0.1-0.20260204055701-cfa4cf572030
@@ -58,15 +58,15 @@ require (
 	go.opentelemetry.io/otel/sdk v1.40.0
 	go.opentelemetry.io/otel/trace v1.40.0
 	go.uber.org/zap v1.27.1
-	golang.org/x/crypto v0.47.0
+	golang.org/x/crypto v0.48.0
 	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1
-	golang.org/x/mod v0.32.0
-	golang.org/x/net v0.49.0
-	golang.org/x/oauth2 v0.34.0
+	golang.org/x/mod v0.33.0
+	golang.org/x/net v0.50.0
+	golang.org/x/oauth2 v0.35.0
 	golang.org/x/sync v0.19.0
-	golang.org/x/sys v0.40.0
-	golang.org/x/term v0.39.0
-	golang.org/x/text v0.33.0
+	golang.org/x/sys v0.41.0
+	golang.org/x/term v0.40.0
+	golang.org/x/text v0.34.0
 	google.golang.org/api v0.265.0
 	google.golang.org/grpc v1.78.0
 	google.golang.org/protobuf v1.36.11
