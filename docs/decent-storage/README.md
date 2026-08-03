@@ -6,9 +6,17 @@
 
 ## Documents
 
-1. [Architectural roadmap](architecture-roadmap.md) — system boundaries, data flows, implementation phases, tradeoffs, and exit criteria.
-2. [Security and privacy design](security-and-privacy.md) — threat model, capabilities, encrypted namespaces, key management, deduplication leakage, and revocation.
-3. [Research backlog](research-backlog.md) — unresolved technical questions, experiments, decision gates, and validation plan.
+1. [Architecture, goals, and principles](01-architecture-and-principles.md)
+2. [Distributed storage and durability](02-distributed-storage.md)
+3. [Working copies and collaboration](03-working-copies-and-collaboration.md)
+4. [Multi-user namespaces and deduplication](04-multi-user-and-deduplication.md)
+5. [Delivery roadmap, tradeoffs, and validation](05-delivery-roadmap.md)
+6. [Security model, identity, and sharing](06-security-model.md)
+7. [Deduplication privacy and security operations](07-dedup-privacy-and-operations.md)
+8. [Research backlog: storage, durability, and synchronization](08-research-storage-and-sync.md)
+9. [Research backlog: cryptography, decentralization, and validation](09-research-crypto-and-validation.md)
+
+Monolithic copies of the roadmap, security design, and research backlog are retained in the accompanying architecture-pack artifact, while the repository version is divided into reviewable source documents.
 
 ## Core recommendation
 
